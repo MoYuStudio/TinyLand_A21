@@ -118,7 +118,7 @@ func update_structure():
 	_model.position.y += 0.25
 	
 func update_cash():
-	cash_display.text = "$" + str(map.cash)
+	cash_display.text = "￥" + str(map.cash)
 
 # 保存/加载
 

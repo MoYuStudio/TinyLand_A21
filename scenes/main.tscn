@@ -19,7 +19,7 @@
 [ext_resource type="Resource" uid="uid://dtal0tl2ee336" path="res://structures/building-small-d.tres" id="12_8obn7"]
 [ext_resource type="Resource" uid="uid://y6jafhfnhbrp" path="res://structures/grass-trees-tall.tres" id="13_t5d2v"]
 [ext_resource type="Resource" uid="uid://bqb6g3t0tebno" path="res://structures/building-garage.tres" id="13_ut2cy"]
-[ext_resource type="FontFile" uid="uid://d0cxd77jybrcn" path="res://fonts/lilita_one_regular.ttf" id="16_vlub6"]
+[ext_resource type="FontFile" uid="uid://dwo3w3m0bti6d" path="res://fonts/YouSheBiaoTiHei.ttf" id="16_vlub6"]
 [ext_resource type="Texture2D" uid="uid://bng0d1sou7c8a" path="res://sprites/coin.png" id="17_cjamx"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_q176i"]
@@ -91,5 +91,5 @@ offset_left = 69.0
 offset_top = 27.0
 offset_right = 270.0
 offset_bottom = 101.0
-text = "$10,000"
+text = "￥10,000"
 label_settings = SubResource("LabelSettings_q176i")
